@@ -1,0 +1,31 @@
+{
+  "name": "error-if-not-primitive",
+  "version": "1.0.0",
+  "description": "Function triggers error if argument is not type 'primitive'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/error-if-not-primitive.git"
+  },
+  "keywords": [
+    "error",
+    "message",
+    "not",
+    "primitive",
+    "type-checking",
+    "type",
+    "check",
+    "data-type"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/error-if-not-primitive/issues"
+  },
+  "homepage": "https://github.com/writetome51/error-if-not-primitive#readme",
+  "dependencies": {
+  }
+}
